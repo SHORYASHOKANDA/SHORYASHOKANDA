@@ -1,4 +1,4 @@
--  Hello 👋 <coders/>!,  I’m @
+-  Hello 👋 <coders/>!,  I’m Shorya Shokanda
 
 -  🔭 I'm a Btech Student and my branch is Computer Science.
 🌱 
